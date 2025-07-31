@@ -99,12 +99,6 @@ Developed a conversational AI assistant for restaurant reservations using agenti
   - Structured logging for conversation auditing
   - Input validation with Pydantic models
 
-### Domain Knowledge
-- **Hospitality Tech**  
-  - Developed natural time expression parsing
-  - Implemented reservation lifecycle handling
-
-
 
 
 
