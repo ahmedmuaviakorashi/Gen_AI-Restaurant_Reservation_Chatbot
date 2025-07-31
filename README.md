@@ -1,8 +1,8 @@
-#**Project Status Report: Agentic AI-Powered Restaurant Reservation Assistant**
+# **Project Status Report: Agentic AI-Powered Restaurant Reservation Assistant**
 
-####**Prepared by:** Ahmed Muavia 
-####**Date:** 07-31-2025  
-####**Project Duration:** 2 Weeks  
+#### **Prepared by:** Ahmed Muavia 
+#### **Date:** 07-31-2025  
+#### **Project Duration:** 2 Weeks  
 
 
 
